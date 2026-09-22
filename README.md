@@ -1,7 +1,7 @@
-# Salut, je suis Yanis 👋
- 
-**Étudiant en BUT 3 Informatique à l'IUT d'Orléans** · Développement web & logiciel
-🔎 Je recherche un **stage de fin d'études en développement logiciel**.
+# Yanis Iliann Litim
+### Étudiant en BUT 3 Informatique · Développement web & logiciel
+
+🔎 En recherche d'un **stage de fin d'études en développement logiciel** de **16 semaines minimum**, durée pouvant être prolongée.
  
 [![Email](https://img.shields.io/badge/Email-iliannlitim%40gmail.com-2d6a4f?style=flat-square&logo=gmail&logoColor=white)](mailto:iliannlitim@gmail.com)
 <!-- Ajouter le badge LinkedIn quand le profil est prêt :
