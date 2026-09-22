@@ -1,4 +1,3 @@
-## Hi there 👋
 # Salut, je suis Yanis 👋
  
 **Étudiant en BUT 3 Informatique à l'IUT d'Orléans** · Développement web & logiciel
@@ -13,8 +12,11 @@
  
 ## 🙋 À propos
  
-J'aime prendre un projet depuis un besoin encore flou jusqu'à sa mise en production : analyse du besoin, maquettes, développement, déploiement.
-Mon terrain principal est **Python** (Django, Flask), et je m'intéresse aussi au **réseau** et à la **cybersécurité**, que je pratique à travers les CTF.
+- 🎓 Étudiant en **BUT 3 Informatique** à l'IUT d'Orléans
+- 🐍 Développement web en **Python** : Django, Flask
+- 🚀 Du besoin à la mise en production : analyse, maquettes, développement, déploiement
+- 🔐 Curieux du **réseau** et de la **cybersécurité**, pratiqués à travers les CTF
+- 🛰️ Actuellement : projet de reconnaissance d'image pour l'Observatoire de Paris
  
 ---
  
@@ -36,7 +38,7 @@ Mon terrain principal est **Python** (Django, Flask), et je m'intéresse aussi a
  
 **Bases de données**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
  
 **Outils & déploiement**
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
